@@ -1,4 +1,4 @@
-# **Auto Power Mode**
+# ![Logo](autopowermode.ico) **Auto Power Mode**
 
 ## **About**
 
