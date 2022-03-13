@@ -3,7 +3,7 @@ from batterystats import Battery
 from powermode import POWER_MODE
 
 try:
-	for i in range(100):
+	while True:
 		print(f"{time()} : ")
 		# print("isCharging   : ", Battery.isCharging())
 		# print("isBatteryLow : ", Battery.isLowCharge())
