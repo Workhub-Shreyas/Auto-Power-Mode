@@ -1,7 +1,7 @@
 # **Auto Power Mode**
 
 ## **About**
---- 
+
 * Built in Python
 * Requires Powershell 15
 * Requires Admin Access
